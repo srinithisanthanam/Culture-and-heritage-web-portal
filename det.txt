@@ -1,0 +1,9 @@
+Srikrithi,Santhanam,srikrithi@gmail.com,female,09176644224,2000-03-13,Adyar home,Chennai,Adyar,602002,India,Gold,31,pass
+Harish,Jayabharathy,harish@gmail.com,male,09176644224,1981-05-10,Royal Court,Chennai,Chitlapakkam,600064,India,Planitinum,321,pass
+Harini,Rajagopalan,harini@gmail.com,female,09884695100,1977-07-10,3 Royal Court,Chennai,Chitlapakam,600064,India,Gold,32,pass
+Srija,Santhanam,srija@gmail.com,female,09176644224,1900-10-10,Adyar home,Chennai,Adyar,602002,India,Gold,31,pass
+Nivedha,Harish,nivedhaharish@yahoo.com,female,9952962474,2003-11-27,58 Oliver Road,Chennai,Tamil Nadu,600020,India,Planitinum,321,nivi123
+Admin,admin,admin@gmail.com,male,09952962474,2020-12-03,"1B Sukoon Apt, 28/57 Kamaraj Ave 1st Street, Adyar",Chennai,Tamil Nadu,600020,India,Planitinum,321,admin
+vrinda,jayakumar,vrinda@gmail.com,female,9952967878,2003-02-21,28/57 ib sukoon flats,adyar,chennai,600020,india,Silver,1,pass
+sri,sri,sree@gmail.com,female,9952962474,2021-12-12,ssijxhh,tudtud,gvviyl,600020,gvyv,Gold,31,pass
+Shruthi,Ramanathan,sruthi@gmail.com,female,9982966474,2021-11-12,"28/57 ,Kamarj Avenue ,1B Sukoon flats",Chennai,Tamil Nadu,600020,India,Gold,31,Pass
